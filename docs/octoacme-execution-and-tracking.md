@@ -4,9 +4,11 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Communication Lead or PM)
+- Weekly delivery sync — show progress, updates, and flagged risks (Communication Lead ensures stakeholder updates)
+- Demo/Review at the end of each sprint or milestone (Stakeholders participate to provide feedback)
+
+For detailed role responsibilities in execution activities, see the [Responsibility Matrix](octoacme-responsibility-matrix.md).
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -33,8 +35,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+The Risk Manager tracks blockers as risks in the risk register and the Communication Lead ensures appropriate stakeholder notification during escalations.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (maintained by Risk Manager)
+- [ ] Communication plan active (managed by Communication Lead)
+- [ ] Stakeholder engagement confirmed (Stakeholders receiving regular updates)
