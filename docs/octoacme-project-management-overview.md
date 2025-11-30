@@ -18,7 +18,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Stakeholder: provides inputs, approvals, and ensures business alignment.
+- Process Owner: maintains process documentation and drives continuous improvement.
+- Communication Lead: ensures timely, transparent communication across teams and stakeholders.
+- Risk Manager: identifies, assesses, and mitigates project risks proactively.
+- Change Champion: advocates for and facilitates adoption of process improvements.
+
+For detailed role descriptions, responsibilities, and interactions, see [Roles & Personas](octoacme-roles-and-personas.md). For accountability clarification, refer to the [Responsibility Matrix](octoacme-responsibility-matrix.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

@@ -32,7 +32,13 @@ OctoAcme's project management is guided by five key principles:
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features and collaborate on design and testability
 - **QA/Testing**: Validate quality and acceptance criteria
-- **Stakeholders**: Provide inputs and approvals
+- **Stakeholder**: Provides inputs, approvals, and ensures business alignment
+- **Process Owner**: Maintains process documentation and drives continuous improvement
+- **Communication Lead**: Ensures timely, transparent communication across teams and stakeholders
+- **Risk Manager**: Identifies, assesses, and mitigates project risks proactively
+- **Change Champion**: Advocates for and facilitates adoption of process improvements
+
+For detailed role descriptions, responsibilities, and interaction patterns, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Sprint Planning & Iteration
 
@@ -234,7 +240,10 @@ To use these project management practices:
 - [Release & Deployment](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Responsibility Matrix](octoacme-responsibility-matrix.md)
+- [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)
 - [Risks & Communication](octoacme-risks-and-communication.md)
+- [Process Documentation Changelog](octoacme-changelog.md)
 
 ---
 
